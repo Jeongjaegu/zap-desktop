@@ -305,7 +305,7 @@
     "bitcoinjs-lib": "4.0.2",
     "bolt11": "1.2.1",
     "coininfo": "git+https://github.com/cryptocoinjs/coininfo.git#c7e003b2fc0db165b89e6f98f6d6360ad22616b2",
-    "connected-react-router": "5.0.1",
+    "connected-react-router": "6.1.0",
     "copy-to-clipboard": "3.0.8",
     "country-data-lookup": "0.0.3",
     "debug": "4.1.1",
